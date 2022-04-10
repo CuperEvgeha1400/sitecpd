@@ -7,7 +7,5 @@ ADD . /app
 
 
 RUN pip isntall -r requirements.txt
-RUN sudo service redis-server start
-RUN celery -A config worker -l INFO
 
 
