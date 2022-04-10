@@ -1,0 +1,4 @@
+Django == 3.1.2
+celery == 5.2.6
+redis = 4.2.1
+django-multiselectfield == 0.1.12
