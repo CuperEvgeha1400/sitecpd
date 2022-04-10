@@ -1,2 +1,2 @@
 ### Django learning pls
-[сслыка](https://djbook.ru/"Изучай дурашка")
+[сслыка](https://djbook.ru/ "Изучай дурашка")
